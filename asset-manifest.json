@@ -1,0 +1,13 @@
+{
+  "app.js": "/app.js",
+  "notfound404.png": "/8d506f923931e4bf88c7b626e6ab217e.png",
+  "_redirects": "/_redirects",
+  "app.js.gz": "/app.js.gz",
+  "placeholder.png": "/ca4d9cb218ce682f4f615880812c8e85.png",
+  "favicon.png": "/favicon.png",
+  "icons/favicon.png": "/icons/manifest.json",
+  "index.html": "/index.html",
+  "precache-manifest.986857d68b0976ed17120a618e9e62f7.js": "/precache-manifest.986857d68b0976ed17120a618e9e62f7.js",
+  "service-worker.js": "/service-worker.js",
+  "stats.json": "/stats.json"
+}

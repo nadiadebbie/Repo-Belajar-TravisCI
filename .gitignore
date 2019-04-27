@@ -1,0 +1,13 @@
+.merlin
+/node_modules/
+/dist/
+/lib/*
+!/lib/js/*
+/build/
+*.log
+.DS_Store
+.bsb.lock
+.vscode/
+package-lock.json
+yarn.lock
+

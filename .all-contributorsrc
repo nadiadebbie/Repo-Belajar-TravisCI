@@ -1,0 +1,34 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mazipan",
+      "name": "Irfan Maulana",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7221389?v=4",
+      "profile": "https://www.mazipan.xyz/",
+      "contributions": [
+        "code",
+        "maintenance",
+        "design"
+      ]
+    },
+    {
+      "login": "muhammadridho",
+      "name": "Muhammad Ridho Assuryadi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16620050?v=4",
+      "profile": "http://ridhoassuryadi.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ghibli-reasonreact",
+  "projectOwner": "mazipan",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

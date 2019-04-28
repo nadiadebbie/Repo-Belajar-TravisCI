@@ -126,11 +126,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iconstats-c7f373162f81259bb50f.json"
   },
   {
-    "revision": "781608d1988863479a93658ee06b4dd7",
+    "revision": "c3ebc2a0bc64072aa26d775938217620",
     "url": "/index.html"
   },
   {
-    "revision": "b9d8a8d2efd97081b7852cb9b6b8c59c",
+    "revision": "75d583b01c529686107e1c3318c38769",
     "url": "/stats.json"
   }
 ]);
